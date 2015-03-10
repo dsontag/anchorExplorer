@@ -3,3 +3,4 @@ scipy
 scikit-learn==0.15
 networkx
 dicttoxml
+matplotlib
